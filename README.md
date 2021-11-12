@@ -1,11 +1,7 @@
-### Hi there, I'm [Derex#0002](https://derex-world.tk/) 👋
+### Hi there, I'm [Darek#1121](https://derex-world.tk/) 👋
 
-- 🔭 I’m currently working on (SOON) [Mi BOT](https://mi.......n)
-- 💬 Ask me about anything on my DM [Derex#0002](https://mi........n/support)
-
-### Discord card:
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891718874804932669)](https://discord.com/users/891718874804932669)
+- 🔭 I’m currently working on (SOON) [Bolt](https://b......n) - Discord multipurpose bot.
+- 💬 Ask me about anything on my DM [Darek#1121](https://b......n/support)
 
 ### Languages and Tools:
 

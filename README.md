@@ -5,11 +5,13 @@
 
 ### Languages and Tools:
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<--!<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://www.mateuszcholewa.pl/wp-content/uploads/2016/10/HTML5.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"> </code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>-->
 <br>
+<a href= "https://discord.com/users/891718874804932669"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/891718874804932669?bg=00000000" /></a>
+  <br>
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darek-tech&show_icons=true&include_all_commits=true&color=#B4D4F2" alt="Darek-tech's github stats" />

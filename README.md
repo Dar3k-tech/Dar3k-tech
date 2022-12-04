@@ -8,5 +8,5 @@
 <a  href="https://github.com/Darooo1121?tab=repositories"><img align="center" style="position:relative; left:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darooo1121&layout=compact&title_color=2ecc71&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
   
 <a href="https://discord.gg/thunderbot"><img align="right" src="https://komarev.com/ghpvc/?username=Darooo1121&color=2f3136">
-
+<br>
 <img align="right" src="https://discord.com/api/guilds/931841903253671936/widget.png?style=banner1" alt="Discord Banner 2"/>

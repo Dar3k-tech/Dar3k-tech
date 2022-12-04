@@ -9,4 +9,4 @@
   
 <a href="https://discord.gg/thunderbot"><img align="right" src="https://komarev.com/ghpvc/?username=Darooo1121&color=2f3136">
 
-<img align="right" src="https://discord.com/api/guilds/931841903253671936/widget.png?style=banner2" alt="Discord Banner 2"/>
+<img align="right" src="https://discord.com/api/guilds/931841903253671936/widget.png?style=banner1" alt="Discord Banner 2"/>

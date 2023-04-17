@@ -1,12 +1,12 @@
-<a href= "https://discord.com/users/637206828572475392"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/637206828572475392?bg=00000000" /></a>
+<a href= "https://discord.com/users/586132986756333568"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/586132986756333568?bg=00000000" /></a>
   <br>
-### 👋 **Darooo#1121**
+### 👋 **Darek#0001**
 
-- 🔭 I’m currently working on [Thunder ⚡](https://discord.gg/thunderbot) - Discord multipurpose bot.
-- 💬 Ask me about anything on my DM [Darooo#1121](https://discord.gg/thunderbot)
+- 🔭 I’m currently working on [DBIT 🦈](https://discord.gg/JCaTDJRz7P) - Discord multipurpose bot.
+- 💬 Ask me about anything on my DM [Darek#0001](https://discord.gg/JCaTDJRz7P)
  
-<a  href="https://github.com/Darooo1121?tab=repositories"><img align="center" style="position:relative; left:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darooo1121&layout=compact&title_color=2ecc71&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
+<a  href="https://github.com/darek-0001?tab=repositories"><img align="center" style="position:relative; left:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darek-0001&layout=compact&title_color=2ecc71&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
   
-<a href="https://discord.gg/thunderbot"><img align="right" src="https://komarev.com/ghpvc/?username=Darooo1121&color=2f3136">
+<a href="https://discord.gg/JCaTDJRz7P"><img align="right" src="https://komarev.com/ghpvc/?username=darek-0001&color=2f3136">
 <br>
-<img align="left" src="https://discord.com/api/guilds/931841903253671936/widget.png?style=banner3" alt="Discord Banner 2"/>
+<img align="left" src="https://discord.com/api/guilds/896887381997813810/widget.png?style=banner3" alt="Discord Banner 2"/>

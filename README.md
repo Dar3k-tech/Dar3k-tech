@@ -22,9 +22,9 @@
     </div>
 
 <br><br><br>
-<a href="https://discord.gg/JCaTDJRz7P"><img align="right" src="https://komarev.com/ghpvc/?username=darek-0001&color=2f3136">
+<a href="https://discord.gg/JCaTDJRz7P"><img align="right" src="https://komarev.com/ghpvc/?username=realdarek&color=2f3136">
 
-<img align="center" src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+<img align="center" src="./snake.svg" alt="snake" style="max-width: 100%;">
 
 <img align="right" width="250" src="https://camo.githubusercontent.com/f0bc252cd072d68455b13bf0a34d78430a84ec88cc1fb339c182a267265ea984/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966" alt="gif">
 

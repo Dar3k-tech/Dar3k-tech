@@ -2,11 +2,12 @@
 
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/586132986756333568?bg=00000000" />
 
-### 👋 **Darek#0001**
+### 👋 **@realdarek**
 
 - 👦 My name is Darek, I live in Poland
+- 🙈 17 yo
 - 🔭 I’m currently working on [DBIT 🦈](https://discord.gg/JCaTDJRz7P) - Discord multipurpose bot.
-- 💬 Ask me about anything on my DM [Darek#0001](https://discord.gg/JCaTDJRz7P)
+- 💬 Ask me about anything on my DM [@realdarek](https://discord.gg/JCaTDJRz7P)
 - 🦈 You will find nothing else here lmao
 - 💻 Languages and tools:
 <br><br>
@@ -27,7 +28,7 @@
 
 <img align="right" width="250" src="https://camo.githubusercontent.com/f0bc252cd072d68455b13bf0a34d78430a84ec88cc1fb339c182a267265ea984/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966" alt="gif">
 
-<p align="center"><img src="https://metrics.lecoq.io/darek-0001?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Warsaw%2FEurope"></p align="center">
+<p align="center"><img src="https://metrics.lecoq.io/realdarek?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Warsaw%2FEurope"></p align="center">
 <br>
 <br>
 <br>

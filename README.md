@@ -22,7 +22,7 @@
     </div>
 
 <br><br><br>
-<a href="https://discord.gg/JCaTDJRz7P"><img align="right" src="https://komarev.com/ghpvc/?username=realdarek&color=2f3136">
+<a href="https://discord.gg/JCaTDJRz7P"><img align="center" src="https://komarev.com/ghpvc/?username=realdarek&color=2f3136">
 
 <img align="center" src="./snake.svg" alt="snake" style="max-width: 100%;">
 

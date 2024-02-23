@@ -26,9 +26,9 @@
 
 <img align="center" src="./snake.svg" alt="snake" style="max-width: 100%;">
 
-<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdarek&layout=compact" alt="gif">
+<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdarek&layout=compact&theme=transparent" alt="gif">
 
-<p align="center"><img src="https://metrics.lecoq.io/realdarek?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Warsaw%2FEurope"></p align="center">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=realdarek&show_icons=true&theme=transparent"></p align="center">
 <br>
 <br>
 <br>

@@ -26,9 +26,9 @@
 
 <img align="center" src="./snake.svg" alt="snake" style="max-width: 100%;">
 
-<img align="left" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=realdarek&theme=dark&hide_border=true" alt="gif">
+<img align="left" width="270" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=realdarek&theme=dark&hide_border=true" alt="gif">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdarek&theme=dark&show_icons=true&hide_border=true&layout=compact">
+<img align="right" width="270" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdarek&theme=dark&show_icons=true&hide_border=true&layout=compact">
 <br>
 <br>
 <br>

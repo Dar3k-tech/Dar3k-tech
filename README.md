@@ -22,9 +22,9 @@
     </div>
 
 <br><br><br>
-<a href="https://discord.gg/JCaTDJRz7P"><img align="center" src="https://komarev.com/ghpvc/?username=realdarek&color=2f3136">
+<a href="https://discord.gg/JCaTDJRz7P"><img align="right" src="https://komarev.com/ghpvc/?username=realdarek&color=2f3136">
 
-<img align="center" src="./snake.svg" alt="snake" style="max-width: 100%;">
+<img align="center" src="./snake.svg" alt="snake">
 
 <div>
     <img align="left" width="270" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=realdarek&theme=dark&hide_border=true" alt="gif">

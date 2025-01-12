@@ -5,7 +5,7 @@
 ### 👋 **@realdarek**
 
 - 👦 My name is Darek, I live in Poland
-- 🙈 17 yo
+- 🙈 18 yo
 - 🔭 I’m currently working on [DBIT 🦈](https://discord.gg/JCaTDJRz7P) - Discord multipurpose bot.
 - 💬 Ask me about anything on my DM [@realdarek](https://discord.gg/JCaTDJRz7P)
 - 🦈 You will find nothing else here lmao

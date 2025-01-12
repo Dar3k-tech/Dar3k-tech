@@ -10,7 +10,7 @@
 - 💬 Ask me about anything on my DM [@realdarek](https://discord.gg/JCaTDJRz7P)
 - 🦈 You will find nothing else here lmao
 - 💻 Languages and tools:
-<br><br>
+  <br><br>
     <div>
         <code><a href="https://www.javascript.com/"><img height="20" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></a></code>
         <code><a href="https://nodejs.org/en"><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></a></code>
@@ -27,11 +27,11 @@
 <img align="center" src="./snake.svg" alt="snake">
 
 <div>
-    <img align="left" width="270" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=realdarek&theme=dark&hide_border=true" alt="gif">
-    <img align="center" width="270" height="100" src="https://github-readme-stats.vercel.app/api?username=realdarek&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gif">
-    <img align="right" width="270" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdarek&theme=dark&show_icons=true&hide_border=true&layout=compact">
+    <img align="left" width="200" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=realdarek&theme=dark&hide_border=true" alt="cos sie rozjebało">
+    <img align="center" width="200" height="100" src="https://github-readme-stats.vercel.app/api?username=realdarek&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="cos sie rozjebało">
+    <img align="right" width="200" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdarek&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="cos sie rozjebało">
 </div>
-    
+
 <br>
 <br>
 <br>
